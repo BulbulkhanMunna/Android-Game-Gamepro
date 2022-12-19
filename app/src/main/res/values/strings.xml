@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gamepro</string>
+    <dimen name="button_size">50dp</dimen>
+</resources>
